@@ -1,5 +1,11 @@
 .vscode/*
 
+*.eps 
+*.pdf 
+*.svg
+*.png
+*.joblib
+
 .vscode/settings.json
 
 # General
